@@ -1,0 +1,18 @@
+Any lines without recognised commands will be ingored (line this one)
+
+Blank lines also ignored.
+
+Checking that COMMANDS ingored until a PLACE occurs
+REPORT
+MOVE
+REPORT
+LEFT
+MOVE
+
+None of that so far should do anything.
+OK now lets place the bot
+PLACE 4,4,WEST
+REPORT
+now lets place again
+PLACE 2,3,NORTH
+REPORT
