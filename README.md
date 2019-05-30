@@ -1,6 +1,6 @@
 # Building
 
-This program is written in Go. Install the binary release for your OS from https://golang.org/dl/ and follow installation instructions there to install.
+This program is written in Go (tested with v1.12.5). Install the binary release for your OS from https://golang.org/dl/ and follow installation instructions there to install.
 
 Running this command should produce a Go executable `toyrobot`
 ```
