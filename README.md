@@ -1,3 +1,5 @@
+Requirements see https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/
+
 # Building
 
 This program is written in Go. Install the binary release for your OS from https://golang.org/dl/ and follow installation instructions there to install.
